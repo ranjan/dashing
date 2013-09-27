@@ -1,0 +1,69 @@
+---
+valuation: ! 'data: {"current":41,"last":7,"id":"valuation","updatedAt":1380289882}
+
+
+'
+karma: ! 'data: {"current":101092,"last":101796,"id":"karma","updatedAt":1380289882}
+
+
+'
+synergy: ! 'data: {"value":95,"id":"synergy","updatedAt":1380289882}
+
+
+'
+buzzwords: ! 'data: {"items":[{"label":"Leverage","value":3},{"label":"Synergy","value":1},{"label":"Streamlininess","value":2},{"label":"Paradigm
+  shift","value":3},{"label":"Exit strategy","value":1},{"label":"Enterprise","value":1},{"label":"Turn-key","value":1}],"id":"buzzwords","updatedAt":1380289883}
+
+
+'
+convergence: ! 'data: {"points":[{"x":13,"y":40},{"x":14,"y":2},{"x":15,"y":1},{"x":16,"y":13},{"x":17,"y":3},{"x":18,"y":35},{"x":19,"y":39},{"x":20,"y":48},{"x":21,"y":9},{"x":22,"y":27}],"id":"convergence","updatedAt":1380289883}
+
+
+'
+welcome: ! 'data: {"text":"Hey, Look what I can do!","id":"welcome","updatedAt":1380132233}
+
+
+'
+weather: ! 'data: {"temp":"59&deg;F","condition":"Cloudy","title":"New York Weather","climacon":"cloud","id":"weather","updatedAt":1380289884}
+
+
+'
+forecast: ! 'data: {"current_temp":"61&deg;","current_icon":"partly-cloudy-day","current_desc":"Mostly
+  Cloudy","next_icon":"partly-cloudy-day","next_desc":"Mostly cloudy for the hour.","later_icon":"partly-cloudy-day","later_desc":"Partly
+  cloudy throughout the day.","id":"forecast","updatedAt":1380289859}
+
+
+'
+twitter_mentions: ! 'data: {"comments":[{"name":"Dary, Ojan","body":"RT @SchitzoAcademy:
+  #todayilearned Elephants are the only animals that cannot jump.","avatar":"https://si0.twimg.com/profile_images/378800000315415528/cf6960bf30c8f31f5ade0cdb8327f0eb_normal.jpeg"},{"name":"Melanchophlegma","body":"RT
+  @SchitzoAcademy: #todayilearned Tribes in the Amazon are using Google Earth to map
+  their lands and fight illegal mining. http://t.co/0LC…","avatar":"https://si0.twimg.com/profile_images/378800000437828263/38fad7e2e32fae21e22dea8787ee121a_normal.jpeg"},{"name":"Melanchophlegma","body":"RT
+  @SchitzoAcademy: #todayilearned Elephants are the only animals that cannot jump.","avatar":"https://si0.twimg.com/profile_images/378800000437828263/38fad7e2e32fae21e22dea8787ee121a_normal.jpeg"},{"name":"Schitzo
+  Academy","body":"#todayilearned Elephants are the only animals that cannot jump.","avatar":"https://si0.twimg.com/profile_images/3356910842/1376401568efaf9e02a7d0546228029b_normal.jpeg"},{"name":"Compliancy
+  Ninja","body":"Don''t tuck jerseys into jeans. Ever. #TodayILearned","avatar":"https://si0.twimg.com/profile_images/378800000514427967/084f64ff418642ff9c7523ab4bf23198_normal.jpeg"},{"name":"Anggah","body":"RT
+  @SchitzoAcademy: #todayilearned Money isn’t made out of paper. It’s made out of
+  cotton","avatar":"https://si0.twimg.com/profile_images/378800000472590528/ed9bfe698a88fda5e1eac61c5a6e8d51_normal.jpeg"},{"name":"Schitzo
+  Academy","body":"#todayilearned Money isn’t made out of paper. It’s made out of
+  cotton","avatar":"https://si0.twimg.com/profile_images/3356910842/1376401568efaf9e02a7d0546228029b_normal.jpeg"},{"name":"niiakaroon","body":"RT
+  @SchitzoAcademy: #todayilearned  a chicken lived for 1.5 years after having its
+  head cut off","avatar":"https://si0.twimg.com/profile_images/378800000321590193/b80c05f6dacd6b607e0e062410ee4a74_normal.jpeg"},{"name":"Schitzo
+  Apparel","body":"RT @SchitzoAcademy: #todayilearned  a chicken lived for 1.5 years
+  after having its head cut off","avatar":"https://si0.twimg.com/profile_images/378800000207173259/bbf354ae7aa6124bdcaae9826a38fad0_normal.jpeg"},{"name":"Schitzoland","body":"RT
+  @SchitzoAcademy: #todayilearned  a chicken lived for 1.5 years after having its
+  head cut off","avatar":"https://si0.twimg.com/profile_images/378800000145451447/6dfff302d3c69676f1628ce40fddb9b3_normal.jpeg"},{"name":"Schitzo
+  Academy","body":"#todayilearned  a chicken lived for 1.5 years after having its
+  head cut off","avatar":"https://si0.twimg.com/profile_images/3356910842/1376401568efaf9e02a7d0546228029b_normal.jpeg"},{"name":"Schitzo
+  Apparel","body":"RT @SchitzoAcademy: #todayilearned that South Africans call Traffic
+  Lights \"Robots\".","avatar":"https://si0.twimg.com/profile_images/378800000207173259/bbf354ae7aa6124bdcaae9826a38fad0_normal.jpeg"},{"name":"Schitzo
+  Academy","body":"#todayilearned that South Africans call Traffic Lights \"Robots\".","avatar":"https://si0.twimg.com/profile_images/3356910842/1376401568efaf9e02a7d0546228029b_normal.jpeg"},{"name":"Irzy
+  Lil Iman","body":"Smart \"@SchitzoAcademy: #todayilearned Tribes in the Amazon are
+  using Google Earth to map their lands and fight illegal mining.","avatar":"https://si0.twimg.com/profile_images/378800000437526168/e4db77a6043b4d983242f52d176f8a63_normal.jpeg"},{"name":"Irzy
+  Lil Iman","body":"RT @SchitzoAcademy: #todayilearned Tribes in the Amazon are using
+  Google Earth to map their lands and fight illegal mining. http://t.co/0LC…","avatar":"https://si0.twimg.com/profile_images/378800000437526168/e4db77a6043b4d983242f52d176f8a63_normal.jpeg"}],"id":"twitter_mentions","updatedAt":1380289884}
+
+
+'
+instadash: ! 'data: {"photos":[{"photo":"http://distilleryimage11.s3.amazonaws.com/c78fcda8277b11e3bb2b22000ae90d63_6.jpg"},{"photo":"http://distilleryimage9.s3.amazonaws.com/b3d08dd4277b11e3b85522000a9e28f2_6.jpg"},{"photo":"http://distilleryimage10.s3.amazonaws.com/ad18973e277b11e38a8f22000ae80d83_6.jpg"},{"photo":"http://distilleryimage0.s3.amazonaws.com/948e7bb6277b11e3a62a22000aa803cb_6.jpg"},{"photo":"http://distilleryimage8.s3.amazonaws.com/6ff9800c277b11e3a1d722000aeb0de9_6.jpg"},{"photo":"http://distilleryimage6.s3.amazonaws.com/699b70c6277b11e3bb0922000a1fbf4a_6.jpg"},{"photo":"http://distilleryimage2.s3.amazonaws.com/65584be2277b11e3917a22000a9f1587_6.jpg"},{"photo":"http://distilleryimage11.s3.amazonaws.com/5df330a6277b11e389a922000aeb0c69_6.jpg"},{"photo":"http://distilleryimage2.s3.amazonaws.com/44443e48277b11e3a01e22000aeb0f45_6.jpg"},{"photo":"http://distilleryimage1.s3.amazonaws.com/354ba0f2277b11e380a722000aaa08b2_6.jpg"},{"photo":"http://distilleryimage0.s3.amazonaws.com/2c090cfa277b11e3b1c522000a9f18eb_6.jpg"},{"photo":"http://distilleryimage2.s3.amazonaws.com/13b063e2277b11e3a31922000a1fbcdc_6.jpg"},{"photo":"http://distilleryimage6.s3.amazonaws.com/0204d420277b11e3bb3522000a1fb076_6.jpg"},{"photo":"http://distilleryimage4.s3.amazonaws.com/f8c1aa46277a11e3a7ec22000ae904db_6.jpg"},{"photo":"http://distilleryimage10.s3.amazonaws.com/f76f43ba277a11e388a022000a9f50d1_6.jpg"},{"photo":"http://distilleryimage4.s3.amazonaws.com/f19123fa277a11e39efa22000ae90e92_6.jpg"},{"photo":"http://distilleryimage11.s3.amazonaws.com/e8308760277a11e393e422000aaa09ed_6.jpg"},{"photo":"http://distilleryimage8.s3.amazonaws.com/e2b27816277a11e382bc22000ab69bc4_6.jpg"},{"photo":"http://distilleryimage10.s3.amazonaws.com/e1795064277a11e3895a22000a1fc66c_6.jpg"},{"photo":"http://distilleryimage1.s3.amazonaws.com/d4ec2308277a11e3a5a022000ae9129a_6.jpg"}],"id":"instadash","updatedAt":1380289859}
+
+
+'
